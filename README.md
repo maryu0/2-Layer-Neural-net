@@ -73,7 +73,3 @@ This project is provided under the MIT License. See LICENSE for details (not inc
 ## Contributing
 
 Feel free to open issues or submit pull requests to improve documentation, add tests, or modularize the code.
-
----
-
-If you'd like, I can add a `requirements.txt`, a small `LICENSE` file, or commit these changes for you. Which would you prefer?
